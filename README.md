@@ -29,17 +29,17 @@ Varje projekt har en README med diagram, skript och en reflektion över vad jag 
 
 | Projekt | Fokus | Teknik |
 |---|---|---|
-| [**Azure-miljö från grunden**](https://github.com/adrianahlborg404-png/Azure-novatrix-mov25) | Bygga upp en Azure-miljö vecka för vecka, från VM till automatisering | Azure, Entra ID, RBAC, VNet, ARM-templates, Bicep |
-| [**AWS-miljö från kod**](https://github.com/adrianahlborg404-png/Amazon-AWS-Kurs) | Flytta ett företags webbplats till AWS vecka för vecka. Webbservern skapas och rivs helt med skript från repot | AWS EC2, AWS CLI, CloudShell, user data, Apache, AWS Budgets |
+| [**Azure-miljö från grunden**](https://github.com/adrianahlborg404-png/azure-novatrix) | Bygga upp en Azure-miljö vecka för vecka, från VM till automatisering | Azure, Entra ID, RBAC, VNet, ARM-templates, Bicep |
+| [**AWS-miljö från kod**](https://github.com/adrianahlborg404-png/aws-novatrix) | Flytta ett företags webbplats till AWS vecka för vecka. Webbservern skapas och rivs helt med skript från repot | AWS EC2, AWS CLI, CloudShell, user data, Apache, AWS Budgets |
 | [**Nordvik hyresgästportal**](https://github.com/adrianahlborg404-png/nordvik-hyresgastportal) | Felanmälningsportal för hyresgäster som byggs från kod, med låst lagring och notiser i Teams och Outlook | Azure Functions, ARM-templates, Entra ID, private endpoint, Power Automate, SharePoint |
-| [**Valentino Rental**](https://github.com/adrianahlborg404-png/valentino-rental-Mov25) | Offert- och ordersystem för biluthyrning | Power Apps, Power Automate, Dataverse, Teams |
-| [**Supportsystem i Microsoft 365**](https://github.com/adrianahlborg404-png/Supportsystem-i-Microsoft-365-IT-rendehantering-och-automatisering) | IT-miljö och nätverk, ärendehantering, frånvarokalender och 16 automatiserade flöden | Power Automate, SharePoint, Dataverse, Teams, Jira |
+| [**Valentino Rental**](https://github.com/adrianahlborg404-png/valentino-rental) | Offert- och ordersystem för biluthyrning | Power Apps, Power Automate, Dataverse, Teams |
+| [**Supportsystem i Microsoft 365**](https://github.com/adrianahlborg404-png/m365-supportsystem) | IT-miljö och nätverk, ärendehantering, frånvarokalender och 16 automatiserade flöden | Power Automate, SharePoint, Dataverse, Teams, Jira |
 
 ### Windows-infrastruktur: bygga, säkra och återställa
 
 | Projekt | Fokus | Teknik |
 |---|---|---|
-| [**Provatrix – Windows-infrastruktur**](https://github.com/adrianahlborg404-png/Windows-infrastrukturen-Provatrix-) | Bygga en komplett domänmiljö för ett företag med två kontor | Windows Server 2019, AD, Exchange 2019, RDS, pfSense |
+| [**Provatrix – Windows-infrastruktur**](https://github.com/adrianahlborg404-png/provatrix-windows-infrastruktur) | Bygga en komplett domänmiljö för ett företag med två kontor | Windows Server 2019, AD, Exchange 2019, RDS, pfSense |
 | [**Novatrix Secure Directory**](https://github.com/adrianahlborg404-png/Novatrix-Secure-Directory-Initiative) | Säkra Active Directory och kunna återställa det | Group Policy, ABE, lösenordspolicy, System State-backup, AD Recycle Bin |
 | [**Disaster Recovery Plan**](https://github.com/adrianahlborg404-png/disaster-recovery-plan) | Återställa hela miljön efter en krasch, även på ny hårdvara | Hyper-V, pfSense, Windows Server Backup, PowerShell |
 
